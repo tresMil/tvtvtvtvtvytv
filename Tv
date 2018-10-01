@@ -1,0 +1,228 @@
+#EXTM3U
+#EXTINF:-1,GOL TV
+http://159.69.15.141/loadbalance/44423992628526292294/chunks.m3u8?pxAuth=AHLwDH375wPzfElCqzr2jkZAQrS2k88m
+
+
+#EXTINF:0 type="stream" channelId="2707", NICK HD
+http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/nick-q3.php?index.m3u
+#EXTINF:0 type="stream" channelId="-1", NICK 2 HD
+http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/nick2-q6.php?index.m3u
+#EXTINF:0 type="stream" channelId="-1", NICK JUNIOR HD
+http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/nickjr-q3.php?index.m3u
+#EXTINF:0 type="stream" channelId="2720", DISNEY HD
+http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/d1sney-q3.php?index.m3u
+#EXTINF:0 type="stream" channelId="2258", DISNEY XD HD
+http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/d1sneyxd-q4.php?index.m3u
+#EXTINF:0 type="stream" channelId="3331", DISNEY JUNIOR HD
+http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/d1sneyjr-q4.php?index.m3u
+#EXTINF:0 type="stream" channelId="-1", CARTOON NETWORD HD
+http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/cart_net-q3.php?index.m3u
+#EXTINF:0 type="stream" channelId="-1", BOOMERANG HD USA
+http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/boomerang-q4.php?index.m3u
+#EXTINF:0 type="stream" channelId="-1", NAT GEO KIDS HD
+http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/natgeo_kids-q3.php?index.m3u
+#EXTINF:0 type="stream" channelId="2837", DISCOVERY KIDS HD
+http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/disc_kids-q3.php?index.m3u
+#EXTINF:0 type="stream" channelId="3124", E! HD
+http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/e_ent-q4.php?index.m3u
+#EXTINF:0 type="stream" channelId="351", SONY HD
+http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/sony-q3.php?index.m3u
+#EXTINF:0 type="stream" channelId="1484", MTV HD
+http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/mtvhd-q3.php?index.m3u
+#EXTINF:0 type="stream" channelId="-1", MTV HITS HD
+http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/mtvhits-q4.php?index.m3u
+#EXTINF:-1,LA_SD:NICK Jr
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4976.m3u8
+#EXTINF:-1,LA_SD:BOOMERANG
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4936.m3u8
+#EXTINF:-1,LA_SD:CARTOON NETWORK
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4938.m3u8
+#EXTINF:-1,LA_SD:DISNEY JR
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4953.m3u8
+ 
+ 
+#EXTINF:0 type="stream" channelId="1508", DISCOVERY SCIENCE HD
+http://tecnotv.info/channel/disscience
+#EXTINF:0 type="stream" channelId="2558", DISCOVERY THEATER HD
+http://tecnotv.info/channel/discoverythe
+#EXTINF:0 type="stream" channelId="-1", DISCOVERY TURBO HD
+http://tecnotv.info/channel/turbo
+#EXTINF:0 type="stream" channelId="341", DISCOVERY CHANNEL HD
+http://tecnotv.info/channel/dischannel
+#EXTINF:0 type="stream" channelId="-1", DISCOVERY TLC HD
+http://tecnotv.info/channel/tlc
+#EXTINF:0 type="stream" channelId="-1", EL GOURMET HD
+http://tecnotv.info/channel/gourmet
+#EXTINF:0 type="stream" channelId="2503", A&E HD
+http://tecnotv.info/channel/ae
+#EXTINF:0 type="stream" channelId="2717", AMC HD
+http://tecnotv.info/channel/amc
+#EXTINF:0 type="stream" channelId="2246", AXN HD
+http://tecnotv.info/channel/axn
+#EXTINF:0 type="stream" channelId="1326", CINEMAX SD
+http://tecnotv.info/channel/cinemax
+#EXTINF:0 type="stream" channelId="284", CINECANAL HD
+http://tecnotv.info/channel/cinecanal
+#EXTINF:0 type="stream" channelId="283", CINE LATINO SD
+http://tecnotv.info/channel/cinelatino
+#EXTINF:0 type="stream" channelId="-1", CINEMA DINAMITA SD
+http://tecnotv.info/channel/cinedinamita
+#EXTINF:0 type="stream" channelId="-1", CINEMA + HD
+http://tecnotv.info/channel/cinema
+#EXTINF:0 type="stream" channelId="-1", CITY TV HD
+http://tecnotv.info/channel/citytv
+#EXTINF:0 type="stream" channelId="208", FOX HD
+http://tecnotv.info/channel/fox
+#EXTINF:0 type="stream" channelId="-1", FOX 2 HD
+http://tecnotv.info/channel/fox2
+#EXTINF:0 type="stream" channelId="2495", FOX ACTION HD
+http://tecnotv.info/channel/foxaction
+#EXTINF:0 type="stream" channelId="-1", FOX ACTION 2 HD
+http://tecnotv.info/channel/foxaction2
+#EXTINF:0 type="stream" channelId="-1", FOX CINEMA HD
+http://tecnotv.info/channel/foxcinema
+#EXTINF:0 type="stream" channelId="-1", FOX CINEMA SUB HD
+http://tecnotv.info/channel/foxcinemasub
+#EXTINF:0 type="stream" channelId="-1", FOX CLASSICS HD
+http://tecnotv.info/channel/foxclas
+#EXTINF:0 type="stream" channelId="2250", FOX COMEDY HD
+http://tecnotv.info/channel/foxcomedy
+#EXTINF:0 type="stream" channelId="-1", FOX FAMILY HD
+http://tecnotv.info/channel/foxfamily
+#EXTINF:0 type="stream" channelId="2493", FOX MOVIES HD
+http://tecnotv.info/channel/foxmovies
+#EXTINF:0 type="stream" channelId="-1", FOX SERIES GD
+http://tecnotv.info/channel/foxseries
+#EXTINF:0 type="stream" channelId="-1", FOX SERIES SUB HD
+http://tecnotv.info/channel/foxsexsub
+#EXTINF:0 type="stream" channelId="205", FOX LIFE HD
+http://tecnotv.info/channel/foxlife
+#EXTINF:0 type="stream" channelId="-1", FOX LIFE 2 HD
+http://tecnotv.info/channel/foxlife2
+#EXTINF:0 type="stream" channelId="1304", FX HD
+http://tecnotv.info/channel/fx
+#EXTINF:0 type="stream" channelId="-1", FX 2 HD
+http://tecnotv.info/channel/fx2
+#EXTINF:0 type="stream" channelId="-1", FXM HD
+http://tecnotv.info/channel/fxm
+#EXTINF:0 type="stream" channelId="-1", FXM 2 HD
+http://tecnotv.info/channel/fxm2
+#EXTINF:0 type="stream" channelId="1962", GOLDEN HD
+http://tecnotv.info/channel/golden
+#EXTINF:0 type="stream" channelId="-1", GOLDEN PREMIER HD
+http://tecnotv.info/channel/goldenp
+#EXTINF:0 type="stream" channelId="2408", HBO HD
+http://tecnotv.info/channel/hbo
+#EXTINF:0 type="stream" channelId="2409", HBO 2 HD
+http://tecnotv.info/channel/hbo2
+#EXTINF:0 type="stream" channelId="2844", HBO FAMILY HD
+http://tecnotv.info/channel/hbofamily
+#EXTINF:0 type="stream" channelId="2723", HBO PLUS HD
+http://tecnotv.info/channel/hboplus
+#EXTINF:0 type="stream" channelId="-1", MAX PRIME HD
+http://tecnotv.info/channel/maxprime
+#EXTINF:0 type="stream" channelId="2726", MAX HD
+http://tecnotv.info/channel/max
+#EXTINF:0 type="stream" channelId="-1", MULTIPREMIER HD
+http://tecnotv.info/channel/multipremier
+#EXTINF:0 type="stream" channelId="2900", TNT HD
+http://tecnotv.info/channel/tnt
+#EXTINF:0 type="stream" channelId="-1", TNT SERIES HD
+http://tecnotv.info/channel/tntseries
+#EXTINF:0 type="stream" channelId="3317", UNIVERSAL CHANNEL HD
+http://tecnotv.info/channel/universalchannel
+#EXTINF:0 type="stream" channelId="2903", WARNER HD
+http://tecnotv.info/channel/warner
+#EXTINF:0 type="stream" channelId="-1", COMEDIA CENTRAL HD
+http://tecnotv.info/channel/comediacentral
+#EXTINF:0 type="stream" channelId="-1", STUDIO UNIVERSAL HD
+http://tecnotv.info/channel/studiouniver
+#EXTINF:0 type="stream" channelId="2896", SPACE HD
+http://tecnotv.info/channel/space
+#EXTINF:-1,LA_SD:CINEMAX
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4850.m3u8
+#EXTINF:-1,LA_SD:GOLDEN
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4968.m3u8
+ 
+#EXTINF:-1,LA_SD:HBO
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4994.m3u8
+ 
+#EXTINF:-1,LA_SD:HBO 2
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4914.m3u8
+ 
+#EXTINF:-1,LA_SD:HBO FAMILY
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4992.m3u8
+ 
+#EXTINF:-1,LA_SD:Gol TV
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4542.m3u8
+ 
+#EXTINF:-1,LA_SD:HBO PLUS
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4996.m3u8
+ 
+#EXTINF:-1,LA_SD:HBO Signature
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4997.m3u8
+ 
+#EXTINF:-1,LA_SD:MAX PRIME ESTE
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/6323.m3u8
+ 
+#EXTINF:-1,LA_SD:FOX ACTION
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4873.m3u8
+ 
+#EXTINF:-1,LA_SD:FOX MOVIES
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4878.m3u8
+ 
+#EXTINF:-1,LA_SD:DISCOVERY H&H
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4943.m3u8
+ 
+ 
+#EXTINF:0 type="stream" channelId="-1", CLARO SPORTS HD
+http://tecnotv.info/channel/clarosport
+#EXTINF:0 type="stream" channelId="-1",CLARO SPORTS 2
+http://tecnotv.info/channel/claros2
+#EXTINF:0 type="stream" channelId="-1", ESPN + HD
+http://tecnotv.info/channel/espn
+#EXTINF:0 type="stream" channelId="-1", ESPN 2 HD
+http://tecnotv.info/channel/espn2
+#EXTINF:0 type="stream" channelId="-1", ESPN 3
+http://tecnotv.info/channel/espn3
+#EXTINF:0 type="stream" channelId="2891", FOX SPORTS HD
+http://tecnotv.info/channel/foxsport
+#EXTINF:0 type="stream" channelId="179", FOX SPORTS 2 HD
+http://tecnotv.info/channel/foxport2
+#EXTINF:0 type="stream" channelId="213", FOX SPORTS 3 HD
+http://tecnotv.info/channel/foxsport3
+#EXTINF:0 type="stream" channelId="-1", FOX SPORTS MEX HD
+http://tecnotv.info/channel/foxsmex
+#EXTINF:0 type="stream" channelId="-1", FOX SPORTS 2 MEX HD
+http://tecnotv.info/channel/foxs2mex
+#EXTINF:0 type="stream" channelId="-1", FOX SPORTS 3 MEX HD
+http://tecnotv.info/channel/foxs3mex
+#EXTINF:-1,LA_SD:ESPN
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4956.m3u8
+ 
+#EXTINF:-1,LA_SD:ESPN 2
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4868.m3u8
+ 
+#EXTINF:-1,LA_SD:ESPN 3
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4957.m3u8
+ 
+#EXTINF:-1,LA_SD:FOX
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4876.m3u8
+ 
+#EXTINF:-1,LA_SD:FOX SPORT
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4879.m3u8
+ 
+#EXTINF:-1,LA_SD:FX
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4965.m3u8
+ 
+#EXTINF:-1,LA_SD:Directv Sport 2_SD
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/9984.m3u8
+ 
+#EXTINF:-1,LA_SD:Directv Sport 2_SD_L
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/9985.m3u8
+ 
+#EXTINF:-1,LA_SD:Directv Sport +_SD
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/9981.m3u8
+ 
+#EXTINF:-1,LA_SD:Directv Sport + _SD_L
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/9982.m3u8
